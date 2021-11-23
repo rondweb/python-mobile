@@ -1,6 +1,8 @@
 # python-mobile
 python mobile apps tests
 
+https://kivy.org/doc/stable/gettingstarted/installation.html#install-conda
+
 if you use Anaconda, you can install Kivy with its package manager Conda using:
 
 conda install kivy -c conda-forge
